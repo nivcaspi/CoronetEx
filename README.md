@@ -8,7 +8,7 @@ Netty was chosen to implement a non-blocking, scaleable, binary communication.
   
 Usage:  
 - launch Server.java
-- launch Main.java
+- launch Main.java  
 The Main class initializes a client, executes api calls from all types and shutsdown the client.
 The Server needs to be shutdown manualy or it can be called again without shutting it down.
 
